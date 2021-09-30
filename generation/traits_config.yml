@@ -1,0 +1,28 @@
+traits:
+  '00bkg':
+    NONE: 0
+    bg1: 25
+    bg2: 25
+    bg3: 25
+    bg4: 25
+  '01hands':
+    NONE: 0
+    hands1: 33
+    hands2: 33
+    hands3: 34
+  '02mouth':
+    NONE: 21
+    mouth1: 33
+    mouth2: 33
+    mouth3: 13
+  '03face':
+    NONE: 0
+    face1: 33
+    face2: 33
+    face3: 34
+  '04accessory':
+    NONE: 0
+    hat1: 25
+    hat2: 25
+    hat3: 25
+    hat4: 25
